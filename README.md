@@ -141,6 +141,7 @@ https://github.com/sdras/awesome-actions/workflows/Lint%20Awesome%20List/badge.s
 - [Build and Publish Android debug APK](https://github.com/ShaunLWM/action-release-debugapk)
 - [Generate sequential build numbers for GitHub Actions](https://github.com/einaregilsson/build-number)
 - [Push Git changes to GitHub repository without authentication difficulties](https://github.com/ad-m/github-push-action)
+- [Close Milestone](https://github.com/WyriHaximus/github-action-close-milestone) - Close the given milestone.
 
 ### Collection of Actions
 
