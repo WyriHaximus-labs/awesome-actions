@@ -141,6 +141,7 @@ https://github.com/sdras/awesome-actions/workflows/Lint%20Awesome%20List/badge.s
 - [Build and Publish Android debug APK](https://github.com/ShaunLWM/action-release-debugapk)
 - [Generate sequential build numbers for GitHub Actions](https://github.com/einaregilsson/build-number)
 - [Push Git changes to GitHub repository without authentication difficulties](https://github.com/ad-m/github-push-action)
+- [Wait for commit statuses](https://github.com/WyriHaximus/github-action-wait-for-status) - Wait until all statuses and checks are successful or any of them has failed and set its status output accordingly. 
 
 ### Collection of Actions
 
